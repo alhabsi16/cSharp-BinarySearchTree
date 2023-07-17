@@ -1,0 +1,15 @@
+C:\Users\TRA\source\repos\cSharp-binaryTree\cSharp-binaryTree\obj\Debug\net6.0\cSharp-binaryTree.csproj.AssemblyReference.cache
+C:\Users\TRA\source\repos\cSharp-binaryTree\cSharp-binaryTree\obj\Debug\net6.0\cSharp-binaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\source\repos\cSharp-binaryTree\cSharp-binaryTree\obj\Debug\net6.0\cSharp-binaryTree.AssemblyInfoInputs.cache
+C:\Users\TRA\source\repos\cSharp-binaryTree\cSharp-binaryTree\obj\Debug\net6.0\cSharp-binaryTree.AssemblyInfo.cs
+C:\Users\TRA\source\repos\cSharp-binaryTree\cSharp-binaryTree\obj\Debug\net6.0\cSharp-binaryTree.csproj.CoreCompileInputs.cache
+C:\Users\TRA\source\repos\cSharp-binaryTree\cSharp-binaryTree\bin\Debug\net6.0\cSharp-binaryTree.exe
+C:\Users\TRA\source\repos\cSharp-binaryTree\cSharp-binaryTree\bin\Debug\net6.0\cSharp-binaryTree.deps.json
+C:\Users\TRA\source\repos\cSharp-binaryTree\cSharp-binaryTree\bin\Debug\net6.0\cSharp-binaryTree.runtimeconfig.json
+C:\Users\TRA\source\repos\cSharp-binaryTree\cSharp-binaryTree\bin\Debug\net6.0\cSharp-binaryTree.dll
+C:\Users\TRA\source\repos\cSharp-binaryTree\cSharp-binaryTree\bin\Debug\net6.0\cSharp-binaryTree.pdb
+C:\Users\TRA\source\repos\cSharp-binaryTree\cSharp-binaryTree\obj\Debug\net6.0\cSharp-binaryTree.dll
+C:\Users\TRA\source\repos\cSharp-binaryTree\cSharp-binaryTree\obj\Debug\net6.0\refint\cSharp-binaryTree.dll
+C:\Users\TRA\source\repos\cSharp-binaryTree\cSharp-binaryTree\obj\Debug\net6.0\cSharp-binaryTree.pdb
+C:\Users\TRA\source\repos\cSharp-binaryTree\cSharp-binaryTree\obj\Debug\net6.0\cSharp-binaryTree.genruntimeconfig.cache
+C:\Users\TRA\source\repos\cSharp-binaryTree\cSharp-binaryTree\obj\Debug\net6.0\ref\cSharp-binaryTree.dll
